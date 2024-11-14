@@ -7,7 +7,7 @@
   </a>
 </div>
 
-# Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 ## Table of Contents
 
