@@ -7,6 +7,10 @@
 # Bank Customer Churn Analysis
 
 ## Table of Contents
+[Introduction](#introduction)
+<br>
+[Business Case](#business-case)
+<br>
 [Business Requirement Document](#business-requirement-document)
 <br>
 [Data Gathering](#data-gathering)
@@ -22,6 +26,10 @@
 [PowerBI Report](#powerbi-report)
 <br>
 [Insights Summary](#insights-summary)
+
+## Introduction
+
+## Business Case
 
 ## Business Requirement Document
 [Download Business Requirement Document From Here](https://github.com/itzzkshitija/Bank-Customer-Churn-Analysis/blob/main/BusinessRequirementDocument.pdf)
