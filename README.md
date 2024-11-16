@@ -9,19 +9,4 @@
 
 # Bank Customer Churn Analysis
 
-## Table of Contents
-[Introduction](#introduction)
-<br>
-[Business Case](#business-case)
-<br>
-[Business Requirement Document](#business-requirement-document)
-<br>
-[Data Summary](#data-summary)
 
-## Introduction
-
-## Business Case
-
-## Business Requirement Document
-
-## Data Summary
