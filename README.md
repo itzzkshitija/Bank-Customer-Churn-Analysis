@@ -24,6 +24,7 @@
 [Insights Summary](#insights-summary)
 
 ## Business Requirement Document
+[Download Business Requirement Document From Here](https://github.com/itzzkshitija/Bank-Customer-Churn-Analysis/blob/main/BusinessRequirementDocument.pdf)
 
 ## Data Gathering
 
